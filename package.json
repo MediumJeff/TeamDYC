@@ -1,0 +1,26 @@
+{
+  "name": "teamdyc",
+  "version": "1.0.0",
+  "description": "TeamDYC Small Business Services",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "keywords": [
+    "small",
+    "business",
+    "services",
+    "tax",
+    "bookkeeping"
+  ],
+  "author": "Jeff McCracken",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}
