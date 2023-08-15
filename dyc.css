@@ -106,3 +106,15 @@ h4 {
 .emailAddress:hover {
     color: white;
 }
+
+#gritCon {
+    color: purple;
+    font-family: "Roboto Slab", sans-serif;
+    text-align: center;
+    margin: 15px;
+}
+
+#gritDesc {
+    justify-content: space-evenly;
+    height: 400px;
+}
