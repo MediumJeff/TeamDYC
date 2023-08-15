@@ -58,7 +58,7 @@
 }
 
 h4 {
-    color: gray;
+    color: darkgray;
     font-weight: 300;
 }
 
@@ -70,10 +70,35 @@ h4 {
 .card {
     padding: 20px;
     margin-top: 20px;
-    box-shadow: 2px 2px black;
+    margin-bottom: 20px;
 }
 
 .card-title {
     color: purple;
     font-family: "Roboto Slab", sans-serif;
+}
+
+#serviceCards {
+    background-color: purple;
+    width: auto;
+}
+
+#clientPic {
+    height: 150px;
+}
+
+#Testimonial {
+    background-color: teal;
+}
+
+#contactPanel {
+    background-color: gray;
+}
+
+.emailAddress {
+    color: purple;
+}
+
+.emailAddress:hover {
+    color: teal;
 }
