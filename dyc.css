@@ -20,3 +20,30 @@
     width: 8rem;
     padding: 10px;
 }
+
+.pageTopper {
+    background-image: url("images/modern-office-with-view-city.jpg");
+    opacity: 75%;
+    background-position: 50%;
+    color: darkcyan;
+    text-shadow: 2px 2px 2px white;
+    text-align: center;
+    margin-top: 10px;
+    font-family: "Roboto Slab", sans-serif;
+    padding: 10px;
+}
+
+.pageTopper a {
+    width: auto;
+    display: flex;
+    margin: auto;
+    color: white;
+    background-color: darkblue;
+    text-shadow: none;
+}
+
+.pageMenu .column {
+    text-align: center;
+    padding: 20px;
+    border: 2px solid black;
+}
