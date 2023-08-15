@@ -15,16 +15,10 @@
     color: purple;
 }
 
-#logo-sm {
-    height: 8rem;
-    width: 8rem;
-    padding: 10px;
-}
-
 .pageTopper {
     background-image: url("images/Dawn-Q1-content-4274.webp");
     background-size: 50%;
-    color: darkcyan;
+    color: white;
     text-shadow: 2px 2px 2px black;
     text-align: center;
     margin-top: 10px;
@@ -61,7 +55,7 @@
 }
 
 h4 {
-    color: darkgray;
+    color: purple;
     font-weight: 300;
 }
 
@@ -86,24 +80,21 @@ h4 {
     width: auto;
 }
 
-#clientPic {
-    height: 150px;
-}
-
 #Testimonial {
     background-color: teal;
 }
 
 #contactPanel {
     background-color: gray;
+    color: white;
 }
 
 .emailAddress {
-    color: purple;
+    color: white;
 }
 
 .emailAddress:hover {
-    color: white;
+    color: purple;
 }
 
 #gritCon {
